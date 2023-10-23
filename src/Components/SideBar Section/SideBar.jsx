@@ -16,14 +16,14 @@ import {BsCreditCard2Front} from 'react-icons/bs'
 
 const Sidebar = () => {
   return (
-    <div className="sideBar grid">
+    <div className="sideBar ">
 
       <div className="logoDiv flex">
           <img src= {logo} alt="logo" />
           <h2>Planti.</h2>
       </div>
 
-      <div className="menudiv">
+      <div className="menuDiv">
         <h3 className="divTitle">
           QUICK MENU
         </h3>
