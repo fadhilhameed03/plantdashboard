@@ -1,8 +1,14 @@
 import React from "react";
 import './app.css'
+import Sidebar from "./Components/SideBar Section/SideBar";
+import Body from"./Components/Body Section/Body";
 
 const App = () => {
-        return ( <div> App </div>)
- }
-
-        export default App
+        return ( 
+             <div className='container'>
+              <Sidebar/>
+              <Body/>
+             </div>
+        )
+}
+export default App  
