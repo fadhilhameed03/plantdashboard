@@ -50,8 +50,8 @@ li {
 }
 
 img {
-    width: 100%;
-    height: auto;
+    width: 10%;
+    height: 10%;
 }
 
 .flex {
@@ -62,7 +62,7 @@ img {
 .grid {
     display: grid;
     align-items: center;
-    gap: 1.5rem;
+    gap: 2.0rem;
 }
 
 .btn {
