@@ -105,10 +105,10 @@ const Sidebar = () => {
       </div>
 
       <div className="sideBarCard">
-      <center><BsQuestionCircle className='icon'/></center>
       <div className='cardContent'>
+      <center><BsQuestionCircle className='icon'/></center>
           <div className='circle1'></div>
-          <div className='circle1'></div>
+          <div className='circle2'></div>
 
           <h3>Help Center</h3>
           <center><p>Having troble in Planti,please contact us for more questions</p></center>
