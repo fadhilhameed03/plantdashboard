@@ -10,7 +10,7 @@ import { BsArrowRightShort } from 'react-icons/bs'
 
 //Imported Image ==========>
 import pics from '../../../Assets/user.jpg'
-import plant1 from '../../../Assets/image1.jpg'
+import plant1 from '../../../Assets/image7.png'
 import video from '../../../Assets/video.mp4'
 
 const Top = () => {
