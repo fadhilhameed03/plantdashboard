@@ -199,3 +199,15 @@
         }
     }
 }
+
+// MEDIA 
+@media screen and (maxwidth:990px) {
+    .cardSection {
+        flex-direction: column;
+        .rightCard,
+        .leftCard {
+            width: 100%;
+            flex-basis: 100%;
+        }
+    }
+}
