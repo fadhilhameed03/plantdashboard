@@ -18,7 +18,7 @@ const Top = () => {
     <div className='topSection'>
       <div className="headerSection flex">
         <div className='title'>
-          <h1>Welcome to Planti.</h1>
+          <h1>Welcome to Planti.</h1>st
           <p>Hello Fadhil,Welcome back!</p>
         </div>
 
